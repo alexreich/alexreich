@@ -1,4 +1,7 @@
-### Hi there 👋
+# Alex Reich Repo
+
+[![Alex Reich's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexreich)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **alexreich/alexreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
